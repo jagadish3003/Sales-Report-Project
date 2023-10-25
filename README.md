@@ -3,7 +3,8 @@
 
 **Project Objective:**
 1. Create a [customer performance report](https://github.com/jagadish3003/Sales-Report-Project/blob/main/Customer%20Performance%20Report%20.pdf) .
-2. Conduct a thorough comparison between market performance and sales targets.
+2. Conduct a thorough comparison between [market performance and sales targets]{https://github.com/jagadish3003/Sales-Report-Project/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
+}.
 
 **Key Highlights:**
 - I've delved into Excel, from its fundamental features to advanced functionalities.
@@ -18,7 +19,8 @@
 ## Finance Report Project
 
 **Project Objective:**
-1. Create Profit and Loss (P&L) reports categorized by Fiscal Year & Months.
+1. Create Profit and Loss (P&L) reports categorized by [Fiscal]{https://github.com/jagadish3003/Sales-Report-Project/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf
+} Year & Months.
 2. Generate Profit and Loss (P&L) reports segmented by Markets.
 
 **Key Highlights:**
