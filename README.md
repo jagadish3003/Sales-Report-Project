@@ -44,6 +44,6 @@
 
 Feel free to connect with me to explore the world of data analytics and financial reporting! 🚀
 
-[Connect with me on LinkedIn](Your LinkedIn Profile Link)
+[Connect with me on LinkedIn](www.linkedin.com/in/cjagadish)
 
-![Data Analytics](URL to an Image)
+
