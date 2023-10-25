@@ -2,7 +2,7 @@
 ## Sales Report Project
 
 **Project Objective:**
-1. Create a customer performance report.
+1. Create a [customer performance report]() .
 2. Conduct a thorough comparison between market performance and sales targets.
 
 **Key Highlights:**
