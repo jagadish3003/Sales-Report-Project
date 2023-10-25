@@ -2,7 +2,7 @@
 ## Sales Report Project
 
 **Project Objective:**
-1. Create a [customer performance report]() .
+1. Create a [customer performance report](https://github.com/jagadish3003/Sales-Report-Project/blob/main/Customer%20Performance%20Report%20.pdf) .
 2. Conduct a thorough comparison between market performance and sales targets.
 
 **Key Highlights:**
